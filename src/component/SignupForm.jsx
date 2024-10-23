@@ -2,7 +2,7 @@ import React from 'react'
 
 const SignupForm = () => {
   return (
-    <div>SignupForm</div>
+    <div to="/signupform" >SignupForm</div>
   )
 }
 
