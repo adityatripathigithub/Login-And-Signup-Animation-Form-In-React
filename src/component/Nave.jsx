@@ -11,7 +11,9 @@ const Nave = () => {
 
                 <NavLink className={(n) => (n.isActive ? "text-red-500" : "")} to="/">
                     Login
+                    
                 </NavLink>
+
 
                 <NavLink className={(n) => (n.isActive ? "text-red-500" : "")} to="/">
                     Signup
